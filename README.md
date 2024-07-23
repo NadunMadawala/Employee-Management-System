@@ -67,7 +67,7 @@ The Employee Management System is a Java Swing application designed to perform b
 
 ## Acknowledgments
 
-- [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/) for the JDBC driver.
+- [MySQL Connector/J]MySQL connector for java) for the JDBC driver and add bin path to project structure -> Modules -> Dedpendencies -> select files.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) for the development environment.
 - [DbUtils](http://swinglabs.org/DbUtils) for simplifying database operations with Swing.
-- Download rs2xxml.jar file add bin  path. 
+- Download rs2xxml.jar file add bin path to project structure -> Modules -> Dedpendencies -> select files.
