@@ -17,6 +17,7 @@ The Employee Management System is a Java Swing application designed to perform b
 - **JDBC**: For connecting and executing SQL queries on the MySQL database.
 - **MySQL**: As the backend database to store employee information.
 - **IntelliJ IDEA**: As the development environment.
+- **XAMPP**: As the host application
 
 ## Getting Started
 
@@ -25,6 +26,7 @@ The Employee Management System is a Java Swing application designed to perform b
 - Java Development Kit (JDK) 8 or higher
 - MySQL Server
 - IntelliJ IDEA or any other Java IDE
+- XAMPP
 
 ### Setup
 
