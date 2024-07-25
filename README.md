@@ -64,6 +64,7 @@ The Employee Management System is a Java Swing application designed to perform b
 - Use `Search` to find an employee by their ID and display their details.
 - Update the details and click `Update` to modify the record.
 - Click `Delete` to remove the employee record from the database.
+- Data table show the all the data entered.
 
 
 
